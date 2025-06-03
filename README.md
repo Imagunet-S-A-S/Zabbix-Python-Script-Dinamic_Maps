@@ -1,0 +1,1 @@
+# Zabbix-Python-Script-Dinamic_Maps
