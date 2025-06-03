@@ -1,0 +1,23 @@
+[
+  {
+    "elementtype": 0,
+    "iconid": 1,
+    "name": "Zabbix server",
+    "x": 300,
+    "y": 100
+  },
+  {
+    "elementtype": 0,
+    "iconid": 1,
+    "name": "Zabbix Proxy 01",
+    "x": 100,
+    "y": 300
+  },
+  {
+    "elementtype": 0,
+    "iconid": 1,
+    "name": "Zabbix DB 01",
+    "x": 500,
+    "y": 300
+  }
+]
