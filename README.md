@@ -1,8 +1,6 @@
-<img src="images/Imagunet-Colombia.png" alt="GLPI Logo" width="200" style="margin-right: 20px;"/>
-
+<img src="images/Imagunet-Colombia.png" alt="Imagunet logo" width="200" style="margin-right: 20px;"/>
+[![LinkedIn](https://img.shields.io/badge/linkedin-profile-blue?style=flat&logo=linkedin&labelColor=2d2d2d&color=0077b5)](https://www.linkedin.com/company/imagunet)
 # Generador de Mapas Dinámicos para Zabbix
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-profile-blue?style=flat&logo=linkedin&labelColor=2d2d2d&color=0077b5)](https://www.linkedin.com/company/imagune)
 
 ## Descripción
 
