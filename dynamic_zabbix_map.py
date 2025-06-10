@@ -4,7 +4,7 @@ from typing import List, Dict, Optional
 from zabbix_utils import ZabbixAPI, APIRequestError
 
 ZABBIX_URL = "http://demolab.imagunet.com/zabbix/api_jsonrpc.php"
-ZABBIX_TOKEN = "8532f8652cae558ec50b2acb1ad7b3be6fed4a348bbe39e724a51e81a88271e9"
+ZABBIX_TOKEN = "A COLOCA TOKEN AQUI"
 
 logging.basicConfig(
     level=logging.INFO,
